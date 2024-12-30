@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1699022662 source:c:\users\agush\documents\github\lab-ii\lab ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1699905337 source:c:\users\agush\documents\github\lab-ii\lab ii\informacionpersonal.c
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1699024596 c:\users\agush\documents\github\lab-ii\lab ii\informacionpersonal.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1700052890 c:\users\agush\documents\github\lab-ii\lab ii\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1700052287 source:c:\users\agush\documents\github\lab-ii\lab ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"gotoxy.h"
+	"alumno.h"
+	"validaciones.h"
+	"informacionPersonal.h"
+	"profesor.h"
+	"ADL.h"
+
+1699022662 c:\users\agush\documents\github\lab-ii\lab ii\gotoxy.h
+
+1700059580 c:\users\agush\documents\github\lab-ii\lab ii\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700059580 c:\users\agush\documents\github\lab-ii\lab ii\profesor.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700051253 source:c:\users\agush\documents\github\lab-ii\lab ii\validaciones.c
+	"validaciones.h"
+
+1699905338 source:c:\users\agush\documents\github\lab-ii\lab ii\alumno.c
+	"alumno.h"
+
+1699569619 source:c:\users\agush\documents\github\lab-ii\lab ii\profesor.c
+	"profesor.h"
+
+1699134778 source:c:\users\agush\documents\github\lab-ii\lab ii\pagossueldos.c
+	"pagosSueldo.h"
+
+1699134875 c:\users\agush\documents\github\lab-ii\lab ii\pagossueldo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"alumno.h"
+	"profesor.h"
+	"informacionPersonal.h"
+
+1699634126 source:c:\users\agush\documents\github\lab-ii\lab ii\adl.c
+	"ADL.h"
+
+1699837579 c:\users\agush\documents\github\lab-ii\lab ii\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+	"profesor.h"
+	"alumno.h"
+	"aulas.h"
+
+1699570425 source:c:\users\agush\documents\github\lab-ii\lab ii\aulas.c
+	"aulas.h"
+
+1699362976 c:\users\agush\documents\github\lab-ii\lab ii\aulas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+
+1700411230 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\adl.c
+	"ADL.h"
+
+1700411259 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+	"profesor.h"
+	"alumno.h"
+	"aulas.h"
+
+1700175744 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\gotoxy.h
+
+1700425668 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\informacionpersonal.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1700334743 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+
+1700429961 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\profesor.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700425780 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700429522 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\aulas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+
+1700429693 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\alumno.c
+	"alumno.h"
+
+1700429640 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\aulas.c
+	"aulas.h"
+
+1700175744 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1700424389 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\informacionpersonal.c
+	"informacionPersonal.h"
+
+1700430316 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"gotoxy.h"
+	"home.h"
+
+1700430649 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\pagossueldos.c
+	"pagosSueldo.h"
+
+1700430519 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\pagossueldo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"gotoxy.h"
+	"alumno.h"
+	"profesor.h"
+	"informacionPersonal.h"
+
+1700406515 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\profesor.c
+	"profesor.h"
+
+1700429522 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\home.c
+	"home.h"
+
+1700405392 c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+	"profesor.h"
+	"alumno.h"
+	"aulas.h"
+	"ADL.h"
+	"pagosSueldo.h"
+
+1700415905 source:c:\users\agush\downloads\lab-ii-7d6262f05da6c3f82c23fc25aa311c09be099504\lab ii\validaciones.c
+	"validaciones.h"
+
+1700411230 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\adl.c
+	"ADL.h"
+
+1700501770 c:\users\mateo\desktop\unrar\lab ii final\lab ii\adl.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"gotoxy.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+	"profesor.h"
+	"alumno.h"
+	"aulas.h"
+
+1700175744 c:\users\mateo\desktop\unrar\lab ii final\lab ii\gotoxy.h
+
+1700425668 c:\users\mateo\desktop\unrar\lab ii final\lab ii\informacionpersonal.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1700334743 c:\users\mateo\desktop\unrar\lab ii final\lab ii\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+
+1700429961 c:\users\mateo\desktop\unrar\lab ii final\lab ii\profesor.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700425780 c:\users\mateo\desktop\unrar\lab ii final\lab ii\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+
+1700429522 c:\users\mateo\desktop\unrar\lab ii final\lab ii\aulas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+
+1700429693 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\alumno.c
+	"alumno.h"
+
+1700429640 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\aulas.c
+	"aulas.h"
+
+1700501831 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
+1700429522 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\home.c
+	"home.h"
+
+1700501927 c:\users\mateo\desktop\unrar\lab ii final\lab ii\home.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"gotoxy.h"
+	"informacionPersonal.h"
+	"validaciones.h"
+	"profesor.h"
+	"alumno.h"
+	"aulas.h"
+	"ADL.h"
+	"pagosSueldo.h"
+
+1700430519 c:\users\mateo\desktop\unrar\lab ii final\lab ii\pagossueldo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"gotoxy.h"
+	"alumno.h"
+	"profesor.h"
+	"informacionPersonal.h"
+
+1700424389 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\informacionpersonal.c
+	"informacionPersonal.h"
+
+1700501166 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"gotoxy.h"
+	"home.h"
+
+1700406515 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\profesor.c
+	"profesor.h"
+
+1700415905 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\validaciones.c
+	"validaciones.h"
+
+1700430708 source:c:\users\mateo\desktop\unrar\lab ii final\lab ii\pagossueldos.c
+	"pagosSueldo.h"
+
